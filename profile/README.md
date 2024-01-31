@@ -1,75 +1,77 @@
 # Precio Al Plato 🍽️
 
-<!-- Precio al Plato README -->
+<!-- README de Precio al Plato -->
 
-<!-- PROJECT SHIELDS 
-[![Contributors][contributors-shield]][contributors-url]
+<!-- INSIGNIAS DEL PROYECTO
+[![Colaboradores][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url] -->
-[![MIT License][license-shield]][license-url]
+[![Estrellas][stars-shield]][stars-url]
+[![Incidencias][issues-shield]][issues-url] -->
+[![Licencia: CC BY-NC-ND 4.0](https://img.shields.io/badge/Licencia-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
-<!-- PROJECT LOGO -->
+
+
+<!-- LOGOTIPO DEL PROYECTO -->
 <br />
 <div align="center">
   <a href="https://github.com/precio-al-plato">
-    <img src="https://github.com/precio-al-plato/.github/blob/main/profile/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/precio-al-plato/.github/blob/main/profile/images/logo.png" alt="Logotipo" width="80" height="80">
   </a>
 
   <h3 align="center">Precio al Plato</h3>
 
   <p align="center">
-    Revolutionising grocery shopping with AI and Big Data!
+    ¡Revolucionando los precios de la lista de la compra con IA y Big Data!
     <br />
-    <a href="https://github.com/precio-al-plato"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/precio-al-plato"><strong>Explora la documentación »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/precio-al-plato">View Demo</a>
+    <a href="https://github.com/precio-al-plato">Ver Demo</a>
     ·
-    <a href="https://github.com/precio-al-plato/issues">Report Bug</a>
+    <a href="https://github.com/precio-al-plato/issues">Reportar un Error</a>
     ·
-    <a href="https://github.com/precio-al-plato/issues">Request Feature</a>
+    <a href="https://github.com/precio-al-plato/issues">Solicitar Funcionalidad</a>
   </p>
 </div>
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLA DE CONTENIDOS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Tabla de Contenidos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Acerca del Proyecto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Construido Con</a></li>
       </ul>
     </li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#getting-started">Cómo Empezar</a></li>
+    <li><a href="#usage">Uso</a></li>
+    <li><a href="#roadmap">Hoja de Ruta</a></li>
+    <li><a href="#license">Licencia</a></li>
+    <li><a href="#contact">Contacto</a></li>
+    <li><a href="#acknowledgments">Agradecimientos</a></li>
   </ol>
 </details>
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ACERCA DEL PROYECTO -->
+## Acerca del Proyecto
 
-Precio al Plato is a non-profit organization aimed at revolutionizing the way we do grocery shopping. By leveraging OCR technology, AI, and Big Data, we provide users with the most efficient and cost-effective shopping lists tailored to their demographics, location, and age.
+Precio al Plato es una startup destinada a revolucionar la forma en que hacemos la compra. Al aprovechar la tecnología OCR, la IA y el Big Data, proporcionamos a los usuarios las listas de compras más eficientes y baratas adaptadas a su demografía, ubicación, edad y otros factores, personalizando y recomendando productos más sanos.
 
-Why Precio al Plato?
-* Utilizes advanced OCR to scan shopping receipts and identify items accurately.
-* Employs complex AI methodologies to correct discrepancies and enhance search capabilities.
-* Leverages Big Data to optimize query times and provide personalized shopping recommendations.
+¿Por qué Precio al Plato?
+* Utiliza OCR avanzado para escanear recibos de compra e identificar artículos con precisión.
+* Emplea metodologías de IA complejas para corregir discrepancias y mejorar las capacidades de búsqueda.
+* Aprovecha el Big Data para optimizar los tiempos de consulta y proporcionar recomendaciones de compra personalizadas.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
 
-### Built With
+### Built with
 
-This section lists the major frameworks and technologies used in the development of Precio al Plato.
+Esta sección enumera los principales marcos y tecnologías utilizados en el desarrollo de Precio al Plato.
 
 * [Supabase](https://supabase.io/)
 * [Python](https://www.python.org/)
@@ -78,56 +80,44 @@ This section lists the major frameworks and technologies used in the development
 * [Selenium](https://www.selenium.dev/)
 * [Requests](https://docs.python-requests.org/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
 
-For more examples on how to use Precio al Plato, please refer to the [Documentation](https://github.com/precio-al-plato/precio-al-plato)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- ROADMAP -->
+<!-- HOJA DE RUTA -->
 ## Roadmap
 
-- [x] Initial Release
-- [ ] Add more integrations
-- [ ] Expand to additional markets
+- [ ] Lanzamiento inicial
+- [ ] Añadir más integraciones
+- [ ] Expandir a mercados adicionales
 
-See the [open issues](https://github.com/precio-al-plato/precio-al-plato/issues) for a full list of proposed features (and known issues).
+<!-- LICENCIA -->
+## Licencia
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Distribuido bajo la Licencia DEED CC BY-NC-ND 4.0. Consulta `LICENSE.txt` para más información.
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the CC BY-NC-ND 4.0 DEED License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
 
-<!-- CONTACT -->
-## Contact
+<!-- CONTACTO -->
+## Contacto
 
-Precio al Plato Team - precioalplato@gmail.com
+Equipo de Precio al Plato - precioalplato@gmail.com
 
-Project Link: [https://github.com/precio-al-plato](https://github.com/precio-al-plato)
+Enlace del Proyecto: [https://github.com/precio-al-plato](https://github.com/precio-al-plato)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- ENLACES E IMÁGENES DE MARKDOWN -->
 [contributors-shield]: https://img.shields.io/github/contributors/precio-al-plato/precio-al-plato.svg?style=for-the-badge
 [contributors-url]: https://github.com/precio-al-plato/precio-al-plato/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/precio-al-plato/precio-al-plato.svg?style=for-the-badge
 [forks-url]: https://github.com/precio-al-plato/precio-al-plato/network/members
 [stars-shield]: https://img.shields.io/github/stars/precio-al-plato/precio-al-plato.svg?style=for-the-badge
-[stars-url]: https://github.com/precio-al-plato/stargazers
+[stars-url]: https://github.com/precio-al-plato/estrellas
 [issues-shield]: https://img.shields.io/github/issues/precio-al-plato/precio-al-plato.svg?style=for-the-badge
-[issues-url]: https://github.com/precio-al-plato/precio-al-plato/issues
+[issues-url]: https://github.com/precio-al-plato/precio-al-plato/incidencias
 [license-shield]: https://img.shields.io/github/license/precio-al-plato/precio-al-plato.svg?style=for-the-badge
 [license-url]: https://github.com/precio-al-plato/.github/blob/main/LICENSE.txt
