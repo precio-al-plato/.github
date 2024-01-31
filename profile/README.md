@@ -130,4 +130,4 @@ Project Link: [https://github.com/precio-al-plato](https://github.com/precio-al-
 [issues-shield]: https://img.shields.io/github/issues/precio-al-plato/precio-al-plato.svg?style=for-the-badge
 [issues-url]: https://github.com/precio-al-plato/precio-al-plato/issues
 [license-shield]: https://img.shields.io/github/license/precio-al-plato/precio-al-plato.svg?style=for-the-badge
-[license-url]: https://github.com/precio-al-plato/.github/tree/main/profile/LICENSE.txt
+[license-url]: https://github.com/precio-al-plato/.github/blob/main/LICENSE.txt
