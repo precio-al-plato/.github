@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/precio-al-plato">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/precio-al-plato/.github/blob/main/profile/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Precio al Plato</h3>
