@@ -25,13 +25,6 @@
     ¡Revolucionando los precios de la lista de la compra con IA y Big Data!
     <br />
     <a href="https://github.com/precio-al-plato"><strong>Explora la documentación »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/precio-al-plato">Ver Demo</a>
-    ·
-    <a href="https://github.com/precio-al-plato/issues">Reportar un Error</a>
-    ·
-    <a href="https://github.com/precio-al-plato/issues">Solicitar Funcionalidad</a>
   </p>
 </div>
 
